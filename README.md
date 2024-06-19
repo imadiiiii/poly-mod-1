@@ -1,10 +1,8 @@
 # poly-mod-1
 
-Certainly! Below is a sample README file that outlines the steps and requirements for the tasks you've described:
-
 ---
 
-# NFT Collection Deployment and Migration README
+## NFT Collection Deployment and Migration README
 
 This README provides instructions for deploying an NFT collection on the Ethereum Goerli Testnet, storing images on IPFS via Pinata Cloud, mapping the collection to the Polygon network using token mapper, and finally, transferring and bridging the NFTs from Ethereum to Polygon Mumbai.
 
